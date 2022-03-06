@@ -23,12 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-sajib-hosen&show_icons=true&locale=en" alt="md-sajib-hosen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-sajib-hosen&" alt="md-sajib-hosen" /></p>
-
-const themes = {
-  default: {
-    title_color: "2f80ed",
-    icon_color: "4c71f2",
-    text_color: "434d58",
-    bg_color: "fffefe",
-    border_color: "e4e2e2",
-  }
