@@ -10,9 +10,8 @@ Skills:  REACT / JS / HTML / CSS/Bootstraps/C/C++
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
+- 💬 Ask me about Web Development & Programming
 - 📫 How to reach me: sajib.coder@gmail.com
-- 😄 Pronouns: kire!! 
 - ⚡ Fun fact: I am a CSE student.😅😅 
 
 
